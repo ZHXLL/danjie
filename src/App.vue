@@ -30,7 +30,7 @@
       let btn4=document.querySelector('.btn4');
       btn1.onclick=()=>{
           this.$router.push({path:'/one'+ this.oneXb});  //这个是第一个点击按钮不一样的地方
-          console.log(1)
+          console.log(1);
       }
       btn2.onclick=()=>{
           this.$router.push({path:'/two'});

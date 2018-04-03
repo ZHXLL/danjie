@@ -1,5 +1,5 @@
 <template>
-  <div class='app'>
+  <div class='app1'>
       第三个页面
   </div>
 </template>
